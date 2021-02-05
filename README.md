@@ -1,2 +1,3 @@
 # hello-world
-the first repo
+wassup it me oskar and i like food
+its amazing really
